@@ -107,9 +107,6 @@ This repository serves as a centralized index for organizing and accessing all r
 
 ### 📝 Personal & Documentation
 
-#### Travel & Lifestyle
-- **[lisbon-travel](https://github.com/lincw/lisbon-travel)** - Lisbon travel planning documents
-
 #### Legacy Projects
 - **[RSV](https://github.com/lincw/RSV)** - RSV (Respiratory Syncytial Virus) analysis
 - **[result_first](https://github.com/lincw/result_first)** - Result-first analysis approach
